@@ -363,3 +363,4 @@ C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\refint\MvcMov
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
+c:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
