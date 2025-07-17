@@ -47,6 +47,27 @@ public static class SeedData
                     ReleaseDate = DateTime.Parse("1959-4-15"),
                     Genre = "Western",
                     Price = 3.99M
+                },
+                new Movie
+                {
+                    Title = "Okon Lagos",
+                    ReleaseDate = DateTime.Parse("2011-07-16"),
+                    Genre = "Drama",
+                    Price = 9.99M
+                },
+                new Movie
+                {
+                    Title = "Coming to America",
+                    ReleaseDate = DateTime.Parse("1988-12-15"),
+                    Genre = "Drama",
+                    Price = 8.99M
+                },
+                new Movie
+                {
+                    Title = "Black Panther",
+                    ReleaseDate = DateTime.Parse("2018-02-16"),
+                    Genre = "Action",
+                    Price = 10.99M
                 }
             );
             context.SaveChanges();
