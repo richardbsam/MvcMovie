@@ -25,6 +25,7 @@ public static class SeedData
                     Title = "When Harry Met Sally",
                     ReleaseDate = DateTime.Parse("1989-2-12"),
                     Genre = "Romantic Comedy",
+                    Rating = "R",
                     Price = 7.99M
                 },
                 new Movie
@@ -32,6 +33,7 @@ public static class SeedData
                     Title = "Ghostbusters ",
                     ReleaseDate = DateTime.Parse("1984-3-13"),
                     Genre = "Comedy",
+                    Rating = "R",
                     Price = 8.99M
                 },
                 new Movie
@@ -39,6 +41,7 @@ public static class SeedData
                     Title = "Ghostbusters 2",
                     ReleaseDate = DateTime.Parse("1986-2-23"),
                     Genre = "Comedy",
+                    Rating = "R",
                     Price = 9.99M
                 },
                 new Movie
@@ -46,6 +49,7 @@ public static class SeedData
                     Title = "Rio Bravo",
                     ReleaseDate = DateTime.Parse("1959-4-15"),
                     Genre = "Western",
+                    Rating = "R",
                     Price = 3.99M
                 },
                 new Movie
@@ -53,6 +57,7 @@ public static class SeedData
                     Title = "Okon Lagos",
                     ReleaseDate = DateTime.Parse("2011-07-16"),
                     Genre = "Drama",
+                    Rating = "R",
                     Price = 9.99M
                 },
                 new Movie
@@ -60,6 +65,7 @@ public static class SeedData
                     Title = "Coming to America",
                     ReleaseDate = DateTime.Parse("1988-12-15"),
                     Genre = "Drama",
+                    Rating = "R",
                     Price = 8.99M
                 },
                 new Movie
@@ -67,6 +73,7 @@ public static class SeedData
                     Title = "Black Panther",
                     ReleaseDate = DateTime.Parse("2018-02-16"),
                     Genre = "Action",
+                    Rating = "R",
                     Price = 10.99M
                 }
             );
