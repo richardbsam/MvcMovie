@@ -284,7 +284,6 @@ C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\MvcMovie.Razo
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\scopedcss\bundle\MvcMovie.styles.css
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
-C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\compressed\euikqtqh4l-b9sayid5wm.gz
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\compressed\s4h06sbw6r-61n19gt1b8.gz
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\compressed\khii5gbrwk-xtxxf3hu2r.gz
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\compressed\l0e8hya28e-bqjiyaj88i.gz
@@ -364,3 +363,4 @@ C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
 c:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
+c:\Users\RICHARD\Desktop\ASP_dotnet_core\MvcMovie\obj\Debug\net9.0\compressed\euikqtqh4l-7q9owc233v.gz
